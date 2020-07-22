@@ -1,0 +1,16 @@
+{
+    "name": "php/autoload",
+    "description": "Aula de autoload",
+    "authors": [
+        {
+            "name": "Dhallyson Santos",
+            "email": "dhallysonsantos@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Source\\": "source/"
+        }
+    },
+    "require": {}
+}
